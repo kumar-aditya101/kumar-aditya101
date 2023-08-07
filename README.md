@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Full Stack,Reactjs and Java**
 
-- 💬 Ask me about **Web Development,C and C++**
+- 💬 Ask me about **Web Development,C++ and JAVA**
 
 - 📫 How to reach me **raazaditya513@gmail.com**
 
