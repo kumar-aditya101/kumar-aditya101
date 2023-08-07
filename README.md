@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Full Stack,Reactjs and Java**
 
-- 💬 Ask me about **Web Development,C++ and JAVA**
+- 💬 Ask me about **Web Development, C++ and JAVA**
 
 - 📫 How to reach me **raazaditya513@gmail.com**
 
@@ -19,7 +19,7 @@
 <a href="https://instagram.com/raaz_adi779" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="raaz_adi779" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/aditya_0101" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="aditya_0101" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/kumaradi101" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="kumaradi101" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@kumaradi779" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@kumaradi779" height="30" width="40" /></a>
+<a href="https://www.hackerearth.com/@raazaditya513" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@kumaradi779" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
